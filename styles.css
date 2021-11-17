@@ -1,8 +1,35 @@
 .map {
-  margin-bottom: 2rem;
+    margin-bottom: 2rem;
 }
 
 .commissioners {
-  margin-bottom: 4rem;
+    margin-bottom: 4rem;
 }
+
+
 /*# sourceMappingURL=styles.css.map */
+
+
+/*buttons on home page*/
+
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: left;
+    flex-direction: column;
+}
+
+.btn {
+    margin: 1rem 0rem;
+}
+
+
+/*on mscd-nopd page*/
+
+.register {
+    margin-left: 2rem;
+}
+
+.map-index {
+    margin-top: 4rem;
+}
