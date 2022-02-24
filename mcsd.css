@@ -22,17 +22,24 @@ h2 {
     align-items: left;
     flex-direction: column;
 }
+.reports-container{
+    display: flex;
+    justify-content: space-around;
+    flex-flow: column wrap;
+    padding: 2rem 1rem 15rem 1rem;
+}
+
+.reports-container .btn{
+ margin: 0rem;
+}
 
 .btn {
     margin: 1rem 0rem;
 }
 
-
 /*on mscd-nopd page*/
 
-.register {
-    margin-left: 2rem;
-}
+
 
 .map-index {
     margin-top: 4rem;
