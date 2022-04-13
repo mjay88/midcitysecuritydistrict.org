@@ -1,6 +1,11 @@
-.map {
-  margin-bottom: 20rem;
-
+body {
+  overflow-x: hidden;
+  height: 100%;
+}
+img {
+  display: block;
+  margin: auto;
+  height: auto; 
 }
 
 .commissioners {
@@ -18,15 +23,21 @@
 .meeting-location {
   font-weight: 600;
 }
-/*map on home page*/
-p > img {
-  margin-bottom: 5rem;
-}
 
-.container:nth-child(2){
+.container:nth-child(2) {
   margin-bottom: 2.5rem;
 }
-/*# sourceMappingURL=styles.css.map */
-.table-span{
+
+.table-span {
   margin: 0 1rem;
 }
+/* 
+
+
+/*.alt-container {
+   width: 100%;
+  max-width: none;
+  padding-left: 0;
+  padding-right: 0; 
+}
+*/
