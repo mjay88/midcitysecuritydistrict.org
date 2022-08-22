@@ -12,12 +12,21 @@ img {
   margin-bottom: 4rem;
 }
 
+
 .form-container {
   text-align: center;
 }
 
 .form {
   text-align: left;
+}
+
+.message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5rem;
+
 }
 
 .meeting-location {
