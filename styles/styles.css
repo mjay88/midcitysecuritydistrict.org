@@ -5,13 +5,12 @@ body {
 img {
   display: block;
   margin: auto;
-  height: auto; 
+  height: auto;
 }
 
 .commissioners {
   margin-bottom: 4rem;
 }
-
 
 .form-container {
   text-align: center;
@@ -26,7 +25,6 @@ img {
   justify-content: center;
   align-items: center;
   margin-top: 5rem;
-
 }
 
 .meeting-location {
@@ -41,7 +39,10 @@ img {
   margin: 0 1rem;
 }
 
-
-.footer{
+.footer {
   margin-top: 10rem;
 }
+/* 
+.link-info-oct > *:first-child {
+  margin-left: 12rem;
+} */
